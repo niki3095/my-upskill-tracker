@@ -51,6 +51,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:---------------------------                 |
+| ![Completed][Completed]     | Jul 2021 | [JavaScript: The Hard Parts, v2]                                | Will Sentance                               |
+| ![Completed][Completed]     | Sep 2021 | [Complete Intro to React, v6]                                   | Brian Holt                                  |
+| ![Completed][Completed]     | Nov 2021 | [JavaScript: The New Hard Parts]                                | Will Sentance                               |
 | ![In Progress][In Progress] |          | [Production-Grade TypeScript]                                   | Mike North                                  |
 | ![In Progress][In Progress] |          | [State Management in Pure React, v2]                            | Steve Kinney                                |
 | ![Soon][Soon]               |          | [Server-Side GraphQL in Node.js]                                | Scott Moss                                  |
@@ -58,6 +61,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [//]: # (Reference links to courses)
 
+[JavaScript: The Hard Parts, v2]: https://frontendmasters.com/courses/javascript-hard-parts-v2/
+[Complete Intro to React, v6]: https://frontendmasters.com/courses/complete-react-v6/
+[JavaScript: The New Hard Parts]: https://frontendmasters.com/courses/javascript-new-hard-parts/
 [Production-Grade TypeScript]: https://frontendmasters.com/courses/production-typescript/
 [State Management in Pure React, v2]: https://frontendmasters.com/courses/pure-react-state/
 [Server-Side GraphQL in Node.js]: https://frontendmasters.com/courses/server-graphql-nodejs/
