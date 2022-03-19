@@ -1,4 +1,4 @@
-## My Uplskill Tracker 
+## My Upskill Tracker 
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning. Inspiration from the original my-learning-tracker https://github.com/Syknapse/My-Learning-Tracker to monitor my own progress.
 
